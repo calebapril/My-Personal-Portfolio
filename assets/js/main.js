@@ -102,8 +102,8 @@ new hoverEffect({
 new hoverEffect({
 	parent: document.querySelector(".project-thumbnail1"),
 	intensity: 0.3,
-	image1: "/assets/images/",
-	image2: "/assets/images/",
+	image1: "/assets/images/thumb1.png",
+	image2: "/assets/images/thumb2.png",
 	displacementImage: "/assets/images/diss.png",
 	imagesRatio: 381 / 494,
 });
@@ -111,8 +111,8 @@ new hoverEffect({
 new hoverEffect({
 	parent: document.querySelector(".project-thumbnail2"),
 	intensity: 0.3,
-	image1: "/assets/images/p-2.jpg",
-	image2: "/assets/images/p-22.jpg",
+	image1: "/assets/images/thumb2(2).png",
+	image2: "/assets/images/thumb2(3).png",
 	displacementImage: "/assets/images/diss.png",
 	imagesRatio: 381 / 494,
 });
