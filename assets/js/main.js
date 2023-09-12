@@ -102,8 +102,8 @@ new hoverEffect({
 new hoverEffect({
 	parent: document.querySelector(".project-thumbnail1"),
 	intensity: 0.3,
-	image1: "/assets/images/Foodblog thumbnail 1.png",
-	image2: "/assets/images/Foodblog thumbnail 2.png",
+	image1: "/assets/images/",
+	image2: "/assets/images/",
 	displacementImage: "/assets/images/diss.png",
 	imagesRatio: 381 / 494,
 });
